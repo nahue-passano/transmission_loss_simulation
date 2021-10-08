@@ -1,0 +1,39 @@
+---------------------------------------------------------------------------
+                             AYUDA AL USUARIO
+---------------------------------------------------------------------------
+>> INFORMACIÓN DEL MATERIAL: 
+ Para comenzar se debe seleccionar el material a estudiar
+ en la lista de materiales pre-cargados, asi como tambien
+ especificar su largo, alto y espesor.
+.
+>> AÑADIR MATERIAL:
+ Clickeando el boton 'Añadir material' se abrirá una ven-
+ tana donde se podrá insertar materiales que no pertenecen
+ a la base de datos pre-existente. Además se mostrarán los
+ materiales existentes con sus especificaciones técnicas.
+.
+>> PROCESAMIENTO DEL MATERIAL:
+ Una vez presionado el botón 'Procesar' el software calcula
+ mediante distintos métodos de predicción (Sharp, Cremer, 
+ Davy, ISO 1235-1) el Transmission Loss (TL) de una pared
+ simple. Para una mejor experiencia de usuario en la lectura
+ de los gráficos, se calcularan y mostrarán en simultáneo
+ los resultados de los 4 métodos.
+.
+>> EXPORTAR GRÁFICO Y TABLA:
+ A la hora de exportar tanto el gráfico como la tabla se 
+ debe seleccionar los métodos deseados mediante los check-
+ boxs. Para exportar el gráfico están disponibles tres for-
+ matos (.jpg , .png , .fig), y para la tabla se encuentran
+ disponibles dos formatos (.xls , .xlsx).
+.
+>> INTERACCIÓN CON EL GRÁFICO:
+ En la sección gráfica el software posee la opción de se-
+ leccionar y visualizar el TL con respecto a la frecuencia
+ en cada punto tan solo clickeando las trazas. A su vez, 
+ haciendo click derecho sobre la gráfica y seleccionando
+ 'Selection style' -> 'Mouse position' se puede analizar
+ el TL para cualquier frecuencia, no solo por tercio de
+ octava.
+---------------------------------------------------------------------------
+

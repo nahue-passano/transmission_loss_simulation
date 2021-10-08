@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+AISLAMIENTO A RUIDO AÉREO DE UNA PARED SIMPLE 
+ MEDIANTE DISTINTOS MÉTODOS DE PREDICCIÓN
+---------------------------------------------------------------------------
+ El siguiente software calcula mediante diversos metodos
+ de predicción, como lo son los metodos de Sharp, Cremer,
+ Davy y el metodo planteado en la norma ISO 1235-1, el 
+ Transmission Loss (TL) de una pared simple.  A su vez 
+ permite exportar los gráficos generados y tablas con 
+ los datos de TL por tercio de octava. Para expandir su
+ uso, el mismo software posee la opción de añadir mate-
+ riales a la base de datos con los materiales 
+ pre-cargados.
+---------------------------------------------------------------------------
+                              ESTUDIANTES
+---------------------------------------------------------------------------
+	   Espíndola, Agustín (agustinespindola96@gmail.com)
+	       Passano, Nahuel (n.passano@hotmail.com)
+	      Ricciardi, Micaela (micasricciardi@gmail.com)
+
